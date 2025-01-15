@@ -68,7 +68,7 @@
    - Access occupancy and revenue summaries for different time periods.
 
     License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the LICENSE file for details.<br/>
 Contact: raahulmaurya2@gmail.com
    
 
