@@ -1,5 +1,8 @@
   Title : Hotel Management System  
   Description : A desktop application for managing hotel operations such as bookings, check-ins, and billing.
+  <img src="https://raw.githubusercontent.com/raahulmaurya1/Hotel_Managment_System/main/Home.jpg" alt="Dashboard Preview" width="500">
+
+
  
     Features
 1.    User Authentication   
