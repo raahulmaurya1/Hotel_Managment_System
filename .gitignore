@@ -33,3 +33,8 @@ src/icon/
 
 # Ignore all JAR files
 *.jar
+# Ignore all .log files
+*.log
+
+# Ignore other temporary files
+*.tmp
