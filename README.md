@@ -3,6 +3,7 @@
   <img src="https://raw.githubusercontent.com/raahulmaurya1/Hotel_Managment_System/main/Home.jpg" alt="Dashboard Preview" width="800">
 
 
+ Youtube Link:- https://www.youtube.com/watch?v=kd622N_4cIk
  
     Features
 1.    User Authentication   
